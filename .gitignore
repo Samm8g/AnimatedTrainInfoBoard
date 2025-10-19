@@ -1,0 +1,25 @@
+# CMake build directory
+cmake-build-debug/
+
+# CLion project files
+.idea/
+
+# Executables
+*.exe
+*.app
+AnimatedTrainInfoBoard
+
+# Object files
+*.o
+*.obj
+
+# Dependency files
+*.d
+
+# MOC files (usually generated in build dir, but good to include)
+moc_*.cpp
+
+# User-specific files (e.g., Qt Creator)
+*.user
+*.pro.user
+*.qbs.user
