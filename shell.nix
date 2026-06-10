@@ -11,6 +11,7 @@ pkgs.mkShell {
     pkgs.ninja
     pkgs.libGL
     pkgs.libGLU
+    pkgs.libGLX
   ];
 
   shellHook = ''
